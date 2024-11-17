@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @CookieeJar16
 - 👀 I’m interested in Web Development and IoT
-- 🌱 I’m currently learning Next.js
 - 📫 How to reach me rafijayalaksana@gmail.com
 
 <!---
